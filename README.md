@@ -28,7 +28,7 @@ Wifi: Some mediatek wifi card so no wifi (see in What's not working)
 -Hdmi audio
 -3.5mm jack
 #Installation Guide
-#For BigSur and Monterey(and anything older than Sierra)
+For BigSur and Monterey(and anything older than Sierra)
 Generate your own smbios since I won't provide mine. The smbios I used was MacBookPro11,4.
-#For High Sierra to Catalina
+For High Sierra to Catalina
 Like in the Monterey guide generate your smbios and mod under the UEFI>APFS the MinVersion and MinDate based on what the opencore install guide says
